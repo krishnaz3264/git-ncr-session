@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 a new file - MAKING CHANGES ON LINE 1
+=======
+a new file
+
+changes on a different line
+>>>>>>> 0e495d21eb48598665c345d2d692908c7ea1d3c6
